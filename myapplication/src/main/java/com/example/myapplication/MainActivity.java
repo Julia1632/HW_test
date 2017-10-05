@@ -10,9 +10,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        // something in b2
-        // i'm in b2
-        // try cherry pick
+       // master only
     }
 
 }
